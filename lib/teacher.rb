@@ -1,3 +1,4 @@
+require_relative "./vehicle.rb"
 class Teacher
 attr_accessor :first_name, :last_name
 
