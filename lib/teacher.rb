@@ -1,4 +1,4 @@
-# require_relative "./.rb"
+ require_relative "./.rb"
 class Teacher
 attr_accessor :first_name, :last_name
 
